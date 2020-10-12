@@ -1,0 +1,1 @@
+#Check whether given number is palindrome or not
